@@ -1,0 +1,43 @@
+{
+  "posts": [
+    {
+      "name": "Shirt",
+      "code": "24523657",
+      "quantity": "2",
+      "description": "new green shirt",
+      "price": "100",
+      "category": "green",
+      "barcodeType": "",
+      "cableType": "cn67",
+      "modem": "cable2",
+      "router": "87sc",
+      "id": 1
+    },
+    {
+      "name": "blue",
+      "code": "jksdyf",
+      "quantity": "7",
+      "description": "blue shirt",
+      "price": "1789",
+      "category": "6",
+      "barcodeType": "",
+      "cableType": "gahtiew",
+      "modem": "kjhyiuk",
+      "router": "hyu8",
+      "id": 2
+    },
+    {
+      "name": "jeans",
+      "code": "783",
+      "quantity": "3",
+      "description": "new white jeans",
+      "price": "778",
+      "category": "kjdsyrfiu",
+      "barcodeType": "",
+      "cableType": "28798",
+      "modem": "3",
+      "router": "liiyo83",
+      "id": 3
+    }
+  ]
+}

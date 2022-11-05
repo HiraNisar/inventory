@@ -1,0 +1,68 @@
+ @import url('https://fonts.googleapis.com/css2?family=Bitter:wght@300&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap'); 
+ html,
+ body {
+   overflow-x: hidden;
+   
+ }
+
+
+ 
+ body {
+   position: relative;
+ }
+ button:hover{
+  background-color:#2FA4FF;
+  color: #03045E;
+}
+.navbar {
+  margin-top:0;
+ /* background:linear-gradient(rgb(149, 143, 236),rgb(178, 105, 247)) */
+  background-color: "";
+}
+.navbar a{
+  font-size: 1.3rem;
+  font-weight: bold;
+  color: #03045E;
+}
+
+.video-tag a{
+  text-decoration: none;
+  padding-top: 10px;
+  font-weight: bold;
+  padding-top: 10px;
+}
+.menu_active{
+  font-weight: bold;
+  border-bottom:2px solid #2FA4FF ;
+}
+
+.navbar a:hover,.navbar a:active{
+  color: #2FA4FF;
+  cursor: pointer;
+  /* background-color: #152D35; */
+}
+.dropdown_background{
+  color: #2FA4FF;
+}
+.btn{
+  background-color: #03045E !important;
+  color: white !important;
+  
+}.btn:hover{
+  background-color: #F0F0F0!important;
+  color: #2FA4FF!important;
+}
+.dropdown-item{
+  color: #2FA4FF;
+  background-color: #F0F0F0;
+}
+.dropdown-item:hover{
+  color: #2FA4FF;
+  background-color: #F0F0F0;
+}
+
+
+
+
+
